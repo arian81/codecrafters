@@ -1,3 +1,6 @@
 [submodule "http-server/codecrafters-http-server-python"]
 	path = http-server/codecrafters-http-server-python
 	url = https://github.com/arian81/codecrafters-http-server-python
+[submodule "http-server/codecrafters-http-server-rust"]
+	path = http-server/codecrafters-http-server-rust
+	url = https://github.com/arian81/codecrafters-http-server-rust
